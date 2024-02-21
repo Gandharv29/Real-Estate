@@ -1,0 +1,1 @@
+This project is based on data of Gurgaon Properties which was scraped through 99acres.com.This projects includes a price prediction feature, Analytics module which helps the customer to get a highly detailed analytical view of the properties in Gurgaon and a recommendation system.
